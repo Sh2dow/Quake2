@@ -267,7 +267,6 @@ assert(0);
 			{
 				// 0/1, 1/0
 				// find middle point
-				ADD_TO_SIDE(v,side1);
 				// create midpoint, placed on a plane
 				float frac = dist1 / (dist1 - dist2);
 				CVec3 m;
